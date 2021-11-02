@@ -85,13 +85,3 @@
 
 <br/>
 <br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/chaimaa-lougsari-034535166/"><img src="https://img.icons8.com/ios-glyphs/60/4a90e2/linkedin.png"/></a>
-
-<a href = "https://github.com/Chaimaa-20"><img src="https://img.icons8.com/ios-glyphs/60/4a90e2/github.png"/></a>
-
-</p>
