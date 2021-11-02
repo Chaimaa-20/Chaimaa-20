@@ -39,7 +39,7 @@
 
   <br/>
     <a href="https://github.com/Chaimaa-20/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaimaa-20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/Chaimaa-20/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa-20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=900C3F" /></a>
+  <a href="https://github.com/Chaimaa-20/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa-20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   <br/>
   
 <br/>
