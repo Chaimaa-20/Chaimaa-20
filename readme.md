@@ -44,8 +44,8 @@
   
 <br/>
 <br/>
-
-<a href="https://github.com/Chaimaa-20/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chaimaa-20&bg_color=000000&color=900C3F&line=900C3F&point=FFFFFF&hide_border=true" /></a>
+<!-- 
+<a href="https://github.com/Chaimaa-20/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chaimaa-20&bg_color=000000&color=900C3F&line=900C3F&point=FFFFFF&hide_border=true" /></a> -->
 
 <br/>
 <br/>
