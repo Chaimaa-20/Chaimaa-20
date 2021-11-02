@@ -3,9 +3,9 @@
 ## I'm a Student in LP DIM IUT CALAIS, Junior Developer, and Learner!!
 
 👀 I’m interested in New Technologies. <br>
-🌱 I’m currently learning Mobile and Web Developement
-📫 Trying to imporve myself everyday
-👯 I’m looking for an internship for four mounths
+🌱 I’m currently learning Mobile and Web Developement <br>
+📫 Trying to imporve myself everyday<br>
+👯 I’m looking for an internship for four mounths<br>
 ⚡ I'm currently working on a Diet Tracker web App
 
 ### 🙋‍♂️ Connect with me:
