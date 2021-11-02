@@ -1,8 +1,8 @@
-### Hi there, I'm Chaimaa - Lougsari
+### Hi there, I'm Chaimaa - Lougsari 👋
 
 ## I'm a Student in LP DIM IUT CALAIS, Junior Developer, and Learner!!
 
-👀 I’m interested in New Technologies.
+👀 I’m interested in New Technologies. <br>
 🌱 I’m currently learning Mobile and Web Developement
 📫 Trying to imporve myself everyday
 👯 I’m looking for an internship for four mounths
@@ -12,9 +12,9 @@
 
 <!-- Badges template - https://github.com/badges/shields -->
 
-[<img align="left" width="22px" src="linkedin-brands.svg">] [linkedin]
+[<img align="left" width="22px" src="linkedin-brands.svg">] [https://www.linkedin.com/in/chaimaa-lougsari-034535166/]
 
-[<img align="left" width="22px" src="github-square-brands.svg">] [github]
+[<img align="left" width="22px" src="github-square-brands.svg">] [https://github.com/Chaimaa-20]
 
 <br />
 
@@ -23,5 +23,5 @@
 <br />
 <br  />
 
-[linkedin]: https://www.linkedin.com/in/chaimaa-lougsari-034535166/
-[github]: https://github.com/Chaimaa-20
+<!-- [linkedin]: https://www.linkedin.com/in/chaimaa-lougsari-034535166/ -->
+<!-- [github]: https://github.com/Chaimaa-20 -->
