@@ -13,6 +13,8 @@
 
 - ⚡ I'm currently working on a Diet Tracker web App
 
+- ⚡ My portfolio <a href="https://chaimaa-lougsari.netlify.app/">My portfolio</a>
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
