@@ -28,16 +28,16 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Chaimaa-20/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chaimaa Lougsari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Chaimaa-20&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    <a href="https://github.com/chaimaaloug/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Chaimaa Lougsari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chaimaaloug&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Chaimaa-20/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chaimaa-20&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/Chaimaa-20/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimaa-20&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+    <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaimaaloug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaloug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   <br/>
   
 <br/>
