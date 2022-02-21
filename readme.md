@@ -13,7 +13,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
  
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
