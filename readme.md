@@ -16,7 +16,7 @@
 <p align="left"> 
  
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+   <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
    <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
    <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
