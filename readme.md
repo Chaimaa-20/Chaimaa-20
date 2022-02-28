@@ -9,7 +9,7 @@
 
 - 📫 Trying to imporve myself everyday<br>
 
-- ⚡ I'm currently working on a Diet Tracker web App
+- ⚡ I'm currently learning MEAN Stack
 
 ## 🚀 Languages and Tools:
 
