@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/chaimaaloug/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaimaaloug&bg_color=F5C452&color=54CA76&line=&point=#54CA76&hide_border=true" /></a>
+<a href="https://github.com/chaimaaloug/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaimaaloug&bg_color=ffffb1&color=54CA76&line=&point=54CA76=&hide_border=true" /></a>
 
 <br/>
 <br/>
