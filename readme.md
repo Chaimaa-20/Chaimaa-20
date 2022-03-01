@@ -49,8 +49,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaimaaloug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=ffffff" /></a>
-  <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaloug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=ffffff" /></a>
+    <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaimaaloug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+  <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaloug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
   <br/>
   
 <br/>
