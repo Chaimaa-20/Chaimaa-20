@@ -32,7 +32,7 @@
  
  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
- <img src="https://img.icons8.com/office/40/000000/mac-os.png"/><br>
+ <img src="https://img.icons8.com/fluency/48/000000/mac-os.png"/><br>
 
 
  
