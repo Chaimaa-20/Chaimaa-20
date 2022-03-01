@@ -27,10 +27,16 @@
  
    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
    <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
-   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
+ 
+ <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
+ <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+ <img src="https://img.icons8.com/office/16/000000/mac-os.png"/>
+
+ 
+   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/><br>
 
 
 </p>
