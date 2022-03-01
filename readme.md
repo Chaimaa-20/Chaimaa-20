@@ -23,6 +23,7 @@
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+ <img src="https://img.icons8.com/offices/32/000000/php-logo.png"/>
    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>
  
    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
