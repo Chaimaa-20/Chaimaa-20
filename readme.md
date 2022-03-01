@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Chaimaa</h1>
 <h3 align="center">I'm a Student in LP DIM IUT CALAIS, Junior Developer, and Learner!!</h3>
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 - 👀 I’m interested in New Technologies. <br>
 
@@ -11,7 +11,7 @@
 
 - ⚡ I'm currently learning MEAN Stack
 
-## 🚀 Languages, Databases and Tools:
+# 🚀 Languages, Databases and Tools
 
 <p align="center"> 
  
@@ -49,7 +49,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+# 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaimaaloug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
