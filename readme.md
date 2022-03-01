@@ -15,31 +15,27 @@
 
 <p align="center"> 
  
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
- <img src="https://img.icons8.com/offices/32/000000/php-logo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>
+ <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png"/>
+ <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+ <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+ <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
+ <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+ <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+ <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+ <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>
  
-   <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
+ <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+ <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+ <img src="https://img.icons8.com/color/48/000000/git.png"/>
+ <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
 
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-  
  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
  <img src="https://img.icons8.com/fluency/48/000000/mac-os.png"/><br>
-
-
  
-   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-   <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/><br>
+ <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+ <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/><br>
 
 
 </p>
@@ -59,8 +55,8 @@
   
 <br/>
 <br/>
-<!-- 
-<a href="https://github.com/Chaimaa-20/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Chaimaa-20&bg_color=000000&color=900C3F&line=900C3F&point=FFFFFF&hide_border=true" /></a> -->
+
+<a href="https://github.com/chaimaaloug/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaimaaloug&bg_color=000000&color=900C3F&line=900C3F&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
