@@ -11,7 +11,7 @@
 
 - ⚡ I'm currently learning MEAN Stack
 
-## 🚀 Languages and Tools:
+## 🚀 Languages, Databases and Tools:
 
 <p align="center"> 
  
