@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Chaimaa</h1>
-<h3 align="center">I'm a Junior Developer</h3>
+<h3 align="center">Junior Web Developer</h3>
 
 ## 🙋‍♂️ About Me
 
