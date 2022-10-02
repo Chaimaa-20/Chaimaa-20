@@ -5,11 +5,11 @@
 
 - 👀 I’m interested in New Technologies. <br>
 
-- 🌱 I’m currently learning Mobile and Web Developement <br>
+- 🌱 I’m currently learning Web Developement <br>
 
 - 📫 Trying to imporve myself everyday<br>
 
-- ⚡ I'm currently learning MEAN Stack
+- ⚡ I'm currently learning React
 
 ## 🚀 Languages, Databases and Tools
 
