@@ -7,9 +7,6 @@
 
 - 🌱 I’m currently learning Web Developement <br>
 
-- 📫 Trying to imporve myself everyday<br>
-
-- ⚡ I'm currently learning React
 
 ## 🚀 Languages, Databases and Tools
 
