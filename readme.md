@@ -19,9 +19,9 @@
  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
  <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+ <img src="https://img.icons8.com/color/48/000000/flutter"/>
  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><br>
-  <img src="https://img.icons8.com/color/48/000000/flutter"/><br>
  
  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
