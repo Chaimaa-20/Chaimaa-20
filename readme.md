@@ -52,16 +52,12 @@
 
 <br/>
 
-<a href="https://github.com/chaimaaloug/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaimaaloug&bg_color=000000&color=C6538C&line=C6538C&point=C6538C&hide_border=true" /></a>
+<a href="https://github.com/chaimaaloug/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaimaaloug&bg_color=ffffff&color=a09ca0&line=e33516&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
 
 <br/>
 <br/>
 
-##  ⭐️ Contributions
 
-- Total commits: [Your total commits]
-- Pull requests: [Number of pull requests]
-- Issues opened/closed: [Number of issues opened/closed]
 
 <br/>
 <br/>
