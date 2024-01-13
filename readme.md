@@ -45,15 +45,23 @@
 
 ## 📊 My Github Stats
 
-  <br/>
-    <a align="center" href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaimaaloug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a align="center" href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaloug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
-  <br/>
-  
 <br/>
+<a align="center" href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chaimaaloug&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
+<a align="center" href="https://github.com/chaimaaloug/github-readme-stats"><img alt="Chaimaa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaimaaloug&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
+<br/>
+
 <br/>
 
 <a href="https://github.com/chaimaaloug/github-readme-activity-graph"><img alt="Chaimaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chaimaaloug&bg_color=000000&color=C6538C&line=C6538C&point=C6538C&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+##  ⭐️ Contributions
+
+- Total commits: [Your total commits]
+- Pull requests: [Number of pull requests]
+- Issues opened/closed: [Number of issues opened/closed]
 
 <br/>
 <br/>
