@@ -52,7 +52,7 @@
 
 <br/>
 
-[![Chaimaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaimaaloug&bg_color=ffffff&color=a09ca0&line=e33516&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaimaaloug&bg_color=000000&color=8bd0c8&line=ffffff&point=2aa788&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
