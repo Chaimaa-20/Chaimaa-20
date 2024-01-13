@@ -52,7 +52,7 @@
 
 <br/>
 
-<a href="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaimaaloug&bg_color=ffffff&color=a09ca0&line=e33516&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"><img alt="Chaimaa's Activity Graph" src="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaimaaloug&bg_color=ffffff&color=a09ca0&line=e33516&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
+[![Chaimaa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chaimaaloug&bg_color=ffffff&color=a09ca0&line=e33516&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 <br/>
