@@ -25,8 +25,7 @@
  
  <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
  <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
- <img src="https://img.icons8.com/color/48/000000/git.png"/>
- <img src="https://img.icons8.com/color/48/000000/docker.png"/><br>
+ <img src="https://img.icons8.com/color/48/000000/git.png"/><br>
 
  <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
  <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
